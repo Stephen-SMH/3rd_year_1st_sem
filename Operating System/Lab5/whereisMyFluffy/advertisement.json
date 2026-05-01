@@ -1,0 +1,10 @@
+{
+      "_id": "...",
+      "adName": "Pet Store Discount",
+      "adURL": "http://example.com/petstore",
+      "adImageURL": "http://example.com/petstore-ad.jpg",
+      "adClickCount": 0,
+      "startDate": "2024-08-01T00:00:00Z",
+      "endDate": "2024-09-01T00:00:00Z"
+    }
+    

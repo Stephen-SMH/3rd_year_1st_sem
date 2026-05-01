@@ -1,0 +1,48 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Lab5_1Parent",
+      "request": "launch",
+      "mainClass": "sols.Lab5.Lab5_1Parent",
+      "projectName": "Operating System_b388f491"
+    },
+    {
+      "type": "java",
+      "name": "MatrixMultiplicationMultiThread",
+      "request": "launch",
+      "mainClass": "MatrixMultiplicationMultiThread",
+      "projectName": "Operating System_b388f491"
+    },
+    {
+      "type": "java",
+      "name": "MatrixMultiplicationMultiThread",
+      "request": "launch",
+      "mainClass": "sols.Lab6.MatrixMultiplicationMultiThread",
+      "projectName": "Operating System_b388f491"
+    },
+    {
+      "type": "java",
+      "name": "MatrixMultiplication",
+      "request": "launch",
+      "mainClass": "MatrixMultiplication",
+      "projectName": "Operating System_b388f491"
+    },
+    {
+      "type": "java",
+      "name": "MatrixMultiplication",
+      "request": "launch",
+      "mainClass": "Lab6.MatrixMultiplication",
+      "projectName": "Operating System_b388f491"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": ".",
+      "program": "build/Debug/outDebug"
+    }
+  ]
+}

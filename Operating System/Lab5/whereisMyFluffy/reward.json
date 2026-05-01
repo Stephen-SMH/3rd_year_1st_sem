@@ -1,0 +1,13 @@
+{
+      "_id": "...",
+      "petID": "...",
+      "finder": {
+        "userID": "...",
+        "name": "Jane Smith",
+        "email": "janesmith@example.com"
+      },
+      "rewardAmount": 100.00,
+      "status": "Pending",  
+      "rewardDate": null
+    }
+    

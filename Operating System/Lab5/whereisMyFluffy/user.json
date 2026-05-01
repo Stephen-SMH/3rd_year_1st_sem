@@ -1,0 +1,25 @@
+
+{
+      "_id": 1,
+      "first_name": "Tom",
+      "email": "tom@example.com",
+      "phone_num": "765-555-5555",
+      "posts": [
+            {
+                  "_id" : 1001
+                  
+            },
+            {
+               "_id" : 1002
+            }
+      ],
+      "password": "hashed_password",
+      "createdAt": "2024-08-18T00:00:00Z",
+      "updatedAt": "2024-08-18T00:00:00Z"
+      
+      
+
+   }
+
+   
+ 

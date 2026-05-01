@@ -1,0 +1,13 @@
+'''
+
+ok
+      child: i=1 -> good afternoon
+      child: i =2-> good night
+      goodbye
+good afternoon
+good night
+goodbye
+'''
+
+built in cmds (ls,cd, echo, pwd) and program 
+

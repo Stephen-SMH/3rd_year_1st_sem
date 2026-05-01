@@ -1,0 +1,25 @@
+{
+      "_id": 1001,
+      "name": "Fluffy",
+      "type": "Cat",
+      "breed": "Siamese",
+      "color": "Brown and White",
+      "age": 2,
+      "microchipID": "123456789",
+      "description": "Friendly, but shy around strangers.",
+      "pictureURL": "http://example.com/fluffy.jpg",
+      "owner": {
+        "userID": 1,
+        "name": "John Doe",
+        "email": "johndoe@example.com"
+      },
+      "status": "Found",
+      "lostDate": "2024-08-15T00:00:00Z",
+      "rewardAmount": 100.00,
+      "lastSeenLocation": {
+        "type": "Point",
+        "coordinates": [-73.856077, 40.848447]
+      }
+    }
+    
+    

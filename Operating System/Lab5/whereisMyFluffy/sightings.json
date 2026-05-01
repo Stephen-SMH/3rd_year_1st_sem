@@ -1,0 +1,17 @@
+{
+      "_id": "...",
+      "petID": "...",
+      "user": {
+        "userID": "...",
+        "name": "Sarah Lee",
+        "email": "sarahlee@example.com"
+      },
+      "sightingDate": "2024-08-17T00:00:00Z",
+      "sightingLocation": {
+        "type": "Point",
+        "coordinates": [-73.861615, 40.847060]
+      },
+      "description": "Saw a cat matching Fluffy's description near the park.",
+      "pictureURL": "http://example.com/sighting.jpg"
+}
+    
